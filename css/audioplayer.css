@@ -1,0 +1,17 @@
+/* RemixDesign | woaichidapi@163.com | Redesigned by JimmyCheung */
+
+.audioplayer {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    margin: 1em 0;
+    padding: 0 24px;
+    width: 100%;
+    height: 96px;
+    align-items: center;
+    border: 1px solid #DDE2E6;
+    border-radius: 4px;
+    background: #fff;
+}
+
+/* responsive | you can change the max-width value to match your theme */
